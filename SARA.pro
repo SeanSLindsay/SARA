@@ -297,7 +297,7 @@ end
 
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-pro SARA_v01,red_edge_median=red_edge_median, v_type=v_type, s_type=s_type ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+pro SARA,red_edge_median=red_edge_median, v_type=v_type, s_type=s_type ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ;This IDL routine is designed to work on visible + NIR (0.45 - 2.45um) spectral data.
 ;The routine computes the band centers, band areas, and band depths for the 1- and 2-um
