@@ -2,7 +2,7 @@
 
 _Original Author: Sean S. Lindsay_
 
-_E-mail:_ <Sean.Lindsay@physics.ox.ac.uk>
+_E-mail:_ <slindsay@utk.edu>
 ___
 ###General Information
 The SARA code is written for the Interactive Data Language (IDL) v. 8.0+.  The code has been version tested back to IDL v.6.0 and to date shows no anomalous behavior on previous IDL versions.  The SARA code has also been tested for use on Windows, Mac, and Linux operating systems.  The main algorithm, SARA.pro, will run with no additional IDL packages installed.  The post-SARA analysis programs require the user to install the [IDL Astronomy Library](http:idlastro.gsfc.nasa.gov/) and the [IDL Coyote Library](http://www.idlcoyote.com/).
